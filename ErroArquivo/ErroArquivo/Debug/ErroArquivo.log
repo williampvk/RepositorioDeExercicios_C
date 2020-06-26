@@ -1,0 +1,3 @@
+﻿  Erro.cpp
+C:\Users\willi\source\repos\ErroArquivo\ErroArquivo\Erro.cpp(16,9): warning C4477:  'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'FILE *'
+  ErroArquivo.vcxproj -> C:\Users\willi\source\repos\ErroArquivo\Debug\ErroArquivo.exe

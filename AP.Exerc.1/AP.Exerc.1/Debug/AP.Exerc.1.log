@@ -1,0 +1,6 @@
+﻿  AP.Exerc.cpp
+C:\Users\willi\source\repos\AP.Exerc.1\AP.Exerc.1\AP.Exerc.cpp(51,23): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\willi\source\repos\AP.Exerc.1\AP.Exerc.1\AP.Exerc.cpp(52,25): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\willi\source\repos\AP.Exerc.1\AP.Exerc.1\AP.Exerc.cpp(60,10): warning C4476:  'printf': tipo desconhecido de caractere de campo '%' no especificador de formato
+C:\Users\willi\source\repos\AP.Exerc.1\AP.Exerc.1\AP.Exerc.cpp(63,10): warning C4476:  'printf': tipo desconhecido de caractere de campo '%' no especificador de formato
+  AP.Exerc.1.vcxproj -> C:\Users\willi\source\repos\AP.Exerc.1\Debug\AP.Exerc.1.exe

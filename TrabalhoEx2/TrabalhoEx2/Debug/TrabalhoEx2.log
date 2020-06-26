@@ -1,0 +1,9 @@
+﻿  TrabalhoEx2.cpp
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(79,9): warning C4129: '*': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(80,9): warning C4129: ' ': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(81,9): warning C4129: ' ': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(82,9): warning C4129: ' ': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(83,9): warning C4129: ' ': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(84,9): warning C4129: '*': sequência de escape de caractere não reconhecida
+C:\Users\willi\source\repos\TrabalhoEx2\TrabalhoEx2\TrabalhoEx2.cpp(145): warning C4715: 'Buscar': nem todos os caminhos de controle retornam um valor
+  TrabalhoEx2.vcxproj -> C:\Users\willi\source\repos\TrabalhoEx2\Debug\TrabalhoEx2.exe

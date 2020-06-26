@@ -1,0 +1,4 @@
+﻿  BuscaBinaria.cpp
+C:\Users\willi\source\repos\BuscaBinaria\BuscaBinaria\BuscaBinaria.cpp(14,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\willi\source\repos\BuscaBinaria\BuscaBinaria\BuscaBinaria.cpp(13,22): warning C4101: 'i': variável local não referenciada
+  BuscaBinaria.vcxproj -> C:\Users\willi\source\repos\BuscaBinaria\Debug\BuscaBinaria.exe

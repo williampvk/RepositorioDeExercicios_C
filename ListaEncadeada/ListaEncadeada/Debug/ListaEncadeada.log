@@ -1,0 +1,4 @@
+﻿  ListaEncadeada.cpp
+C:\Users\willi\source\repos\ListaEncadeada\ListaEncadeada\ListaEncadeada.cpp(54,14): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\willi\source\repos\ListaEncadeada\ListaEncadeada\ListaEncadeada.cpp(59,14): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  ListaEncadeada.vcxproj -> C:\Users\willi\source\repos\ListaEncadeada\Debug\ListaEncadeada.exe

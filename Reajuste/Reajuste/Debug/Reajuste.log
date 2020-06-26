@@ -1,0 +1,4 @@
+﻿  ReajustePonteiros.cpp
+C:\Users\willi\source\repos\Reajuste\Reajuste\ReajustePonteiros.cpp(24,21): warning C4244:  '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\willi\source\repos\Reajuste\Reajuste\ReajustePonteiros.cpp(25,15): warning C4305:  '*=': truncamento de 'double' para 'float'
+  Reajuste.vcxproj -> C:\Users\willi\source\repos\Reajuste\Debug\Reajuste.exe

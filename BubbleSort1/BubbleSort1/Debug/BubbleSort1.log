@@ -1,0 +1,4 @@
+﻿  BubbleSort1.cpp
+C:\Users\willi\source\repos\BubbleSort1\BubbleSort1\BubbleSort1.cpp(13,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\willi\source\repos\BubbleSort1\BubbleSort1\BubbleSort1.cpp(12,6): warning C4101: 'i': variável local não referenciada
+  BubbleSort1.vcxproj -> C:\Users\willi\source\repos\BubbleSort1\Debug\BubbleSort1.exe

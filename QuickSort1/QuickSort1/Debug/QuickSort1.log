@@ -1,0 +1,3 @@
+﻿  QuickSort.cpp
+C:\Users\willi\source\repos\QuickSort1\QuickSort1\QuickSort.cpp(14,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  QuickSort1.vcxproj -> C:\Users\willi\source\repos\QuickSort1\Debug\QuickSort1.exe

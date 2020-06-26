@@ -1,0 +1,5 @@
+﻿  ArvoreBin.cpp
+C:\Users\willi\source\repos\ArvoreBin\ArvoreBin\ArvoreBin.cpp(15,15): warning C4101: 'pos': variável local não referenciada
+C:\Users\willi\source\repos\ArvoreBin\ArvoreBin\ArvoreBin.cpp(15,23): warning C4101: 'res': variável local não referenciada
+C:\Users\willi\source\repos\ArvoreBin\ArvoreBin\ArvoreBin.cpp(123): warning C4715: 'Buscar': nem todos os caminhos de controle retornam um valor
+  ArvoreBin.vcxproj -> C:\Users\willi\source\repos\ArvoreBin\Debug\ArvoreBin.exe

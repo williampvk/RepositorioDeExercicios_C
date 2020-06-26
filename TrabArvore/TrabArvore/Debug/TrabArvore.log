@@ -1,0 +1,32 @@
+﻿  Origem.cpp
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(27,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(27,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(28,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(28,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(29,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(29,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(30,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(30,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(31,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(31,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(32,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(32,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(33,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(33,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(34,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(34,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(35,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(35,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(36,59): error C2664: 'void Inserir(ElementoDaArvoreBinaria **,int,char *,char *)': não é possível converter um argumento 3 de 'const char [9]' em 'char *'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(36,26): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(13,6): message : consulte a declaração de 'Inserir'
+C:\Users\willi\source\repos\TrabArvore\TrabArvore\Origem.cpp(17): fatal error C1075: '{': nenhum token correspondente encontrado
